@@ -1,6 +1,6 @@
 # Minimal Example of Tutorial in Jupyter Notebook running GPT2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/GESIS-Methods-Hub/minimal-example-ipynb-python-gpt/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/GESIS-Methods-Hub/minimal-example-ipynb-python-gpt2/HEAD?labpath=index.ipynb)
 
 This repository is a minimal example of a Jupyter Notebook running GPT2 (and two other language models).
 The notebook is located in the `index.ipynb` file.
