@@ -2,13 +2,12 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/GESIS-Methods-Hub/minimal-example-ipynb-python-gpt/HEAD?labpath=index.ipynb)
 
-This repository is a minimal example of a Jupyter Notebook running GPT2. The notebook is located in the `index.ipynb` file.
-
+This repository is a minimal example of a Jupyter Notebook running GPT2 (and two other language models).
+The notebook is located in the `index.ipynb` file.
 
 ## Usage
 
-To run the notebook in the cloud using Binder, click on the Binder badge above,
-or use the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/GESIS-Methods-Hub/minimal-example-ipynb-python-gpt2/HEAD?labpath=index.ipynb).
+To run the notebook in the cloud using Binder, click on the Binder badge above, or use this [link](https://notebooks.gesis.org/binder/v2/gh/GESIS-Methods-Hub/minimal-example-ipynb-python-gpt2/HEAD?labpath=index.ipynb).
 This will open the notebook in a new tab in your browser.
 
 To run the notebook locally, install the required libraries with `conda` by running the following command in the terminal.
